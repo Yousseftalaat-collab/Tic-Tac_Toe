@@ -10,7 +10,7 @@
 <img src="Screenshot3.png" 
 <img src="Screenshot4.png" 
 <img src="Screenshot1.png" 
-/>
+width="200"/>
 </div>
 <h2>📌 Features</h2>
 <ul>
