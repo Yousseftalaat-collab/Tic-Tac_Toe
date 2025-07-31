@@ -4,10 +4,10 @@
 
 <h2>🖼️ Screenshot</h2>
 <div align="center">
-<img src="Screenshoot2"/>
-<img src="Screenshoot3"/>
-<img src="Screenshoot1"/>
-<img src="Screenshoot4"/>
+<img src="Screenshoot2.png"/>
+<img src="Screenshoot3.png"/>
+<img src="Screenshoot1.png"/>
+<img src="Screenshoot4.png"/>
 </div>
 <h2>📌 Features</h2>
 <ul>
