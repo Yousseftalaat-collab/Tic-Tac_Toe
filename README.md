@@ -6,11 +6,10 @@
 <h2>🖼️ Screenshot</h2>
 
 <div align="center">
-<img src="Screenshot2.png" 
-<img src="Screenshot3.png" 
-<img src="Screenshot4.png" 
-<img src="Screenshot1.png" 
-width="200"/>
+<img src="Screenshot2.png" width="200" />
+<img src="Screenshot3.png" width="200" />
+<img src="Screenshot4.png" width="200" />
+<img src="Screenshot1.png" width="200" />
 </div>
 <h2>📌 Features</h2>
 <ul>
