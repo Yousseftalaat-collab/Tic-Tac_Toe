@@ -1,7 +1,14 @@
-<h1>🎮 Tic Tac Toe Almadrsa</h1>
+<h1 align="center">🎮 Tic Tac Toe Almadrsa</h1>
 
-<p>A GUI-based Tic Tac Toe game using Python and Tkinter, where the player competes against the computer with image-based buttons. Includes scoring, a reset button, and automatic winner detection.</p>
+<p align="center">A GUI-based Tic Tac Toe game using Python and Tkinter, where the player competes against the computer with image-based buttons. Includes scoring, a reset button, and automatic winner detection.</p>
 
+<h2>🖼️ Screenshot</h2>
+<div align="center">
+<img src="Screenshoot2"/>
+<img src="Screenshoot3"/>
+<img src="Screenshoot1"/>
+<img src="Screenshoot4"/>
+</div>
 <h2>📌 Features</h2>
 <ul>
   <li>Choose your symbol: X or O</li>
