@@ -2,13 +2,15 @@
 
 <p align="center">A GUI-based Tic Tac Toe game using Python and Tkinter, where the player competes against the computer with image-based buttons. Includes scoring, a reset button, and automatic winner detection.</p>
 
-<h2>🖼️ Screenshot</h2>
-<div align="center">
-<img src="Screenshoot2.png" />
-<img src="Screenshoot3.png" />
-<img src="Screenshoot4.png" />
-<img src="Screenshoot1.png" />
 
+<h2>🖼️ Screenshot</h2>
+
+<div align="center">
+<img src="Screenshoot2.png" 
+<img src="Screenshoot3.png" 
+<img src="Screenshoot4.png" 
+<img src="Screenshoot1.png" 
+/>
 </div>
 <h2>📌 Features</h2>
 <ul>
